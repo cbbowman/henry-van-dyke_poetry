@@ -45,7 +45,7 @@
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/henry-van-dyke_poetry</meta>
-		<dc:creator id="author">Henry van Dyke</dc:creator>
+		<dc:creator id="author">Henry van Dyke Jr.</dc:creator>
 		<meta property="file-as" refines="#author">Dyke, Henry van</meta>
 		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">CONTRIBUTOR_WIKI_URL</meta>
