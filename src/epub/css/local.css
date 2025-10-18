@@ -40,6 +40,21 @@ p span.i4{
 	text-indent: -1em;
 }
 
+p span.i5{
+	padding-left: 6em;
+	text-indent: -1em;
+}
+
+p span.i6{
+	padding-left: 7em;
+	text-indent: -1em;
+}
+
+p span.i7{
+	padding-left: 8em;
+	text-indent: -1em;
+}
+
 [epub|type~="z3998:hymn"] hgroup p,
 [epub|type~="z3998:poem"] hgroup p,
 [epub|type~="z3998:song"] hgroup p,
@@ -64,4 +79,8 @@ p span.i4{
 [epub|type~="z3998:song"] [epub|type~="bridgehead"],
 [epub|type~="z3998:verse"] [epub|type~="bridgehead"]{
 	text-align: justify;
+}
+
+.dl2 span:first-child{
+	vertical-align: 100%;
 }
