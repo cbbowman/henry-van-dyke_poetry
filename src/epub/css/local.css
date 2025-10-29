@@ -1,17 +1,11 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
-/* SeMoS 1.2.1 */
-
-/* -------------- */
 
 /* SeMoS 7.1.3.1 */
 article,
 section{
 	break-after: page;
 }
-/* SeMoS 7.1.3.1 */
-
-/* -------------- */
 
 /* SeMoS 7.2.11.1 */
 [epub|type~="bridgehead"]{
@@ -32,9 +26,6 @@ section{
 [epub|type~="z3998:verse"] [epub|type~="bridgehead"]{
 	text-align: justify;
 }
-/* SeMoS 7.2.11.1 */
-
-/* -------------- */
 
 /* SeMoS 7.4.1 */
 [epub|type~="epigraph"]{
@@ -54,17 +45,11 @@ section{
 [epub|type~="epigraph"] cite i{
 	font-style: italic;
 }
-/* SeMoS 7.4.1 */
-
-/* -------------- */
 
 /* SeMoS 7.4.5.1 */
 header [epub|type~="epigraph"] cite{
 	font-variant: small-caps;
 }
-/* SeMoS 7.4.5.1 */
-
-/* -------------- */
 
 /* SeMoS 7.5.1 */
 [epub|type~="z3998:poem"] p,
@@ -81,9 +66,6 @@ header [epub|type~="epigraph"] cite{
 [epub|type~="z3998:verse"] p + p{
 	margin-top: 1em;
 }
-/* SeMoS 7.5.1 */
-
-/* -------------- */
 
 /* SeMoS 7.5.2 */
 [epub|type~="z3998:poem"] p > span,
@@ -94,7 +76,6 @@ header [epub|type~="epigraph"] cite{
 	padding-left: 1em;
 	text-indent: -1em;
 }
-/* SeMoS 7.5.2 */
 
 /* SeMoS 7.5.3 */
 [epub|type~="z3998:poem"] p > span + br,
@@ -103,9 +84,6 @@ header [epub|type~="epigraph"] cite{
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
-/* SeMoS 7.5.3 */
-
-/* -------------- */
 
 /* SeMoS 7.5.4 */
 p span.i1{
@@ -157,9 +135,6 @@ p span.i10{
 	padding-left: 11em;
 	text-indent: -1em;
 }
-/* SeMoS 7.5.4 */
-
-/* -------------- */
 
 /* SeMoS 7.5.8 */
 [epub|type~="z3998:poem"] hgroup p,
@@ -168,30 +143,32 @@ p span.i10{
 [epub|type~="z3998:verse"] hgroup p{
 	text-align: center;
 }
-/* SeMoS 7.5.8 */
-
-/* -------------- */
-
 
 /* SeMoS 7.7.4.2 */
 footer{
 	margin-top: 1em;
 	text-align: right;
 }
-/* SeMoS 7.7.4.2 */
-
-/* -------------- */
 
 /* SeMoS 7.7.4.4 */
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
-/* SeMoS 7.7.4.4 */
-
-/* -------------- */
 
 /* Dropped lines  */
 .dl2 span:first-child{
 	vertical-align: 100%;
 }
-/* Dropped lines  */
+
+/* Footers */
+/* Style copied from Thomas Gray Poetry */
+/* https://standardebooks.org/ebooks/thomas-gray/poetry */
+[epub|type~="z3998:poem"] footer p,
+[epub|type~="z3998:song"] footer p,
+[epub|type~="z3998:hymn"] footer p,
+[epub|type~="z3998:verse"] footer p{
+	font-style: italic;
+	margin-right: 1em;
+	margin-top: 1em;
+	text-align: right;
+}
