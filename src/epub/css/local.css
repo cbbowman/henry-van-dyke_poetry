@@ -1,6 +1,14 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+/* SeMoS 1.2.5.6.2 */
+header blockquote + p{
+	font-size: larger;
+	font-variant: small-caps;
+	font-weight: bold;
+	text-indent: 0;
+}
+
 /* SeMoS 7.1.3.1 */
 article,
 section{
@@ -49,6 +57,27 @@ section{
 /* SeMoS 7.4.5.1 */
 header [epub|type~="epigraph"] cite{
 	font-variant: small-caps;
+}
+
+/* SeMoS 7.4.5.2 */
+article > header [epub|type~="epigraph"],
+section > header [epub|type~="epigraph"]{
+	display: inline-block;
+	margin: auto;
+	max-width: 80%;
+	text-align: initial;
+}
+
+article > header [epub|type~="epigraph"] + *,
+section > header [epub|type~="epigraph"] + *{
+	margin-top: 3em;
+}
+
+@supports(display: table){
+	article > header [epub|type~="epigraph"],
+	section > header [epub|type~="epigraph"]{
+		display: table;
+	}
 }
 
 /* SeMoS 7.5.1 */
@@ -171,4 +200,11 @@ footer{
 	margin-right: 1em;
 	margin-top: 1em;
 	text-align: right;
+}
+
+/* Song headings */
+[epub|type~="z3998:song"] div header p{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
 }
