@@ -1,14 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-/* SeMoS 1.2.5.6.2 */
-header blockquote + p{
-	font-size: larger;
-	font-variant: small-caps;
-	font-weight: bold;
-	text-indent: 0;
-}
-
 /* SeMoS 7.1.3.1 */
 article,
 section{
@@ -16,6 +8,8 @@ section{
 }
 
 /* SeMoS 7.2.11.1 */
+[epub|type~="dedication"],
+[epub|type~="z3998:introductory-note"],
 [epub|type~="bridgehead"]{
 	display: inline-block;
 	font-style: italic;
@@ -24,14 +18,7 @@ section{
 	text-indent: 0;
 }
 
-[epub|type~="bridgehead"] i{
-	font-style: normal;
-}
-
-[epub|type~="z3998:hymn"] [epub|type~="bridgehead"],
-[epub|type~="z3998:poem"] [epub|type~="bridgehead"],
-[epub|type~="z3998:song"] [epub|type~="bridgehead"],
-[epub|type~="z3998:verse"] [epub|type~="bridgehead"]{
+[epub|type~="z3998:poem"] [epub|type~="bridgehead"]{
 	text-align: justify;
 }
 
@@ -40,18 +27,10 @@ section{
 	font-style: italic; /* ... */
 }
 
-[epub|type~="epigraph"] i{
-	font-style: normal;
-}
-
 [epub|type~="epigraph"] cite{
 	font-style: normal;
 	font-variant: small-caps;
 	margin-top: 1em;
-}
-
-[epub|type~="epigraph"] cite i{
-	font-style: italic;
 }
 
 /* SeMoS 7.4.5.1 */
@@ -60,22 +39,15 @@ header [epub|type~="epigraph"] cite{
 }
 
 /* SeMoS 7.4.5.2 */
-article > header [epub|type~="epigraph"],
-section > header [epub|type~="epigraph"]{
+article > header [epub|type~="epigraph"]{
 	display: inline-block;
 	margin: auto;
 	max-width: 80%;
 	text-align: initial;
 }
 
-article > header [epub|type~="epigraph"] + *,
-section > header [epub|type~="epigraph"] + *{
-	margin-top: 3em;
-}
-
 @supports(display: table){
-	article > header [epub|type~="epigraph"],
-	section > header [epub|type~="epigraph"]{
+	article > header [epub|type~="epigraph"]{
 		display: table;
 	}
 }
@@ -83,24 +55,21 @@ section > header [epub|type~="epigraph"] + *{
 /* SeMoS 7.5.1 */
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:song"] p,
-[epub|type~="z3998:hymn"] p,
-[epub|type~="z3998:verse"] p{
+[epub|type~="z3998:hymn"] p{
 	text-align: initial;
 	text-indent: 0;
 }
 
 [epub|type~="z3998:poem"] p + p,
 [epub|type~="z3998:song"] p + p,
-[epub|type~="z3998:hymn"] p + p,
-[epub|type~="z3998:verse"] p + p{
+[epub|type~="z3998:hymn"] p + p{
 	margin-top: 1em;
 }
 
 /* SeMoS 7.5.2 */
 [epub|type~="z3998:poem"] p > span,
 [epub|type~="z3998:song"] p > span,
-[epub|type~="z3998:hymn"] p > span,
-[epub|type~="z3998:verse"] p > span{
+[epub|type~="z3998:hymn"] p > span{
 	display: block;
 	padding-left: 1em;
 	text-indent: -1em;
@@ -109,8 +78,7 @@ section > header [epub|type~="epigraph"] + *{
 /* SeMoS 7.5.3 */
 [epub|type~="z3998:poem"] p > span + br,
 [epub|type~="z3998:song"] p > span + br,
-[epub|type~="z3998:hymn"] p > span + br,
-[epub|type~="z3998:verse"] p > span + br{
+[epub|type~="z3998:hymn"] p > span + br{
 	display: none;
 }
 
@@ -167,9 +135,7 @@ p span.i10{
 
 /* SeMoS 7.5.8 */
 [epub|type~="z3998:poem"] hgroup p,
-[epub|type~="z3998:song"] hgroup p,
-[epub|type~="z3998:hymn"] hgroup p,
-[epub|type~="z3998:verse"] hgroup p{
+[epub|type~="z3998:song"] hgroup p{
 	text-align: center;
 }
 
@@ -194,8 +160,7 @@ footer{
 /* https://standardebooks.org/ebooks/thomas-gray/poetry */
 [epub|type~="z3998:poem"] footer p,
 [epub|type~="z3998:song"] footer p,
-[epub|type~="z3998:hymn"] footer p,
-[epub|type~="z3998:verse"] footer p{
+[epub|type~="z3998:hymn"] footer p{
 	font-style: italic;
 	margin-right: 1em;
 	margin-top: 1em;
