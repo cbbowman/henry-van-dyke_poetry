@@ -8,7 +8,6 @@ section{
 }
 
 /* SeMoS 7.2.11.1 */
-[epub|type~="dedication"],
 [epub|type~="z3998:introductory-note"],
 [epub|type~="bridgehead"]{
 	display: inline-block;
@@ -135,7 +134,8 @@ p span.i10{
 
 /* SeMoS 7.5.8 */
 [epub|type~="z3998:poem"] hgroup p,
-[epub|type~="z3998:song"] hgroup p{
+[epub|type~="z3998:song"] hgroup p,
+[epub|type~="z3998:hymn"] hgroup p{
 	text-align: center;
 }
 
