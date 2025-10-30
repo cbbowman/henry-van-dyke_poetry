@@ -103,13 +103,11 @@
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/henry-van-dyke_poetry</meta>
 		<dc:creator id="author">Henry van Dyke Jr.</dc:creator>
 		<meta property="file-as" refines="#author">Dyke, Henry van</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Henry_van_Dyke_Jr.</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50045062</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Robert Walter Weir</dc:contributor>
 		<meta property="file-as" refines="#artist">Weir, Robert Walter</meta>
@@ -117,15 +115,48 @@
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n85028285</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Jonathan Ingram</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Ingram, Jonathan</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Daniel Emerson Griffith</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Griffith, Daniel Emerson</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
-		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net/</meta>
+		<dc:contributor id="transcriber-2">Daniel Emerson Griffith</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Griffith, Daniel Emerson</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">Michael Gray</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Gray, Michael</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-4">Margaret Macaskill</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Macaskill, Margaret</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-5">David Garcia</dc:contributor>
+		<meta property="file-as" refines="#transcriber-5">Garcia, David</meta>
+		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-6">Mardi Desjardins</dc:contributor>
+		<meta property="file-as" refines="#transcriber-6">Desjardins, Mardi</meta>
+		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-7">David Widger</dc:contributor>
+		<meta property="file-as" refines="#transcriber-7">Widger, David</meta>
+		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-8">Patricia Peters</dc:contributor>
+		<meta property="file-as" refines="#transcriber-8">Peters, Patricia</meta>
+		<meta property="role" refines="#transcriber-8" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-9">Tonya Allen</dc:contributor>
+		<meta property="file-as" refines="#transcriber-9">Allen, Tonya</meta>
+		<meta property="role" refines="#transcriber-9" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-10">Juliet Sutherland</dc:contributor>
+		<meta property="file-as" refines="#transcriber-10">Sutherland, Juliet</meta>
+		<meta property="role" refines="#transcriber-10" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-11">Marius Borror</dc:contributor>
+		<meta property="file-as" refines="#transcriber-11">Borror, Marius</meta>
+		<meta property="role" refines="#transcriber-11" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-12">Stephen Hutcheson</dc:contributor>
+		<meta property="file-as" refines="#transcriber-12">Hutcheson, Stephen</meta>
+		<meta property="role" refines="#transcriber-12" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-13">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-13">Distributed Proofreaders</meta>
+		<meta property="se:url.homepage" refines="#transcriber-13">https://www.pgdp.net/</meta>
+		<meta property="role" refines="#transcriber-13" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">C. B. Bowman</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Bowman, C. B.</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://github.com/cbbowman</meta>
