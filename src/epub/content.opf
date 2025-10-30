@@ -38,7 +38,20 @@
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-US</dc:language>
+		<!--Transcriptions of most of the works-->
 		<dc:source>https://www.gutenberg.org/ebooks/16229</dc:source>
+		<!--Transcriptions of "Chant of the Northmen at the Thunder-Oak"-->
+		<dc:source>https://www.gutenberg.org/ebooks/16134</dc:source>
+		<!--Transcriptions of "Chant of the Magi at the Fire-Altar"-->
+		<dc:source>https://www.gutenberg.org/ebooks/10679</dc:source>
+		<!--Transcriptions of "A Rondeau of College Rhymes"-->
+		<dc:source>https://www.gutenberg.org/ebooks/3525</dc:source>
+		<!--Transcriptions of works found in "Songs out of Doors" (1922)-->
+		<dc:source>https://www.gutenberg.org/ebooks/9372</dc:source>
+		<!--Transcriptions of "The Broken Sword" and "The Unseen Altar"-->
+		<dc:source>https://www.gutenberg.org/ebooks/29314</dc:source>
+		<!--Transcriptions of works found in "Thy Sea is Great, Our Boats are Small" (1922)-->
+		<dc:source>https://www.gutenberg.org/ebooks/43094</dc:source>
 		<!--Scans of most of the works-->
 		<dc:source>https://archive.org/details/poemsofhenryvand00vandrich</dc:source>
 		<!--Scans of works found in "The Builders, and other Poems" (1897)-->
