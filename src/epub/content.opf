@@ -120,9 +120,6 @@
 		<dc:contributor id="transcriber-2">Daniel Emerson Griffith</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Griffith, Daniel Emerson</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">Daniel Emerson Griffith</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">Griffith, Daniel Emerson</meta>
-		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Michael Gray</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Gray, Michael</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
