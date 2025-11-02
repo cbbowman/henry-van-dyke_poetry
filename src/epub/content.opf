@@ -101,7 +101,7 @@
 		<dc:source>https://archive.org/details/thyseaisgreatour00vandiala</dc:source>
 		<!--Scans of works found in "Chosen Poems" (1927)-->
 		<dc:source>https://archive.org/details/chosenpoems0000vand</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">The publishing order was maintained for this collection with the following exceptions: "Three Alpine Sonnets" is ordered according to the publication date of its third sonnet, "Twilight in the Alps," in 1909; its first and third sonnets were published in 1897. "Come Back Again, Jeanne d'Arc," while originally published in 1909, is placed directly before "Jeanne D'arc Returns" (1917), which "belongs with it" according to a footnote in the source text.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/henry-van-dyke_poetry</meta>
