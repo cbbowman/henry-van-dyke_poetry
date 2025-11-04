@@ -29,36 +29,36 @@
 		<dc:title id="title">Poetry</dc:title>
 		<meta property="file-as" refines="#title">Poetry</meta>
 		<dc:subject id="subject-1">American poetry -- 19th century</dc:subject>
+		<dc:subject id="subject-2">American poetry -- 20th century</dc:subject>
+		<dc:subject id="subject-3">Christian poetry, American</dc:subject>
+		<dc:subject id="subject-4">History, Modern</dc:subject>
+		<dc:subject id="subject-5">Hymns, English</dc:subject>
+		<dc:subject id="subject-6">Narrative poetry, English</dc:subject>
+		<dc:subject id="subject-7">Nature in poetry</dc:subject>
+		<dc:subject id="subject-8">Songs, English</dc:subject>
+		<dc:subject id="subject-9">Patriotic poetry, American</dc:subject>
+		<dc:subject id="subject-10">Didactic poetry, American</dc:subject>
+		<dc:subject id="subject-11">World War, 1914-1918--Poetry</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85004386</meta>
-		<dc:subject id="subject-2">American poetry -- 20th century</dc:subject>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85004387</meta>
-		<dc:subject id="subject-3">Christian poetry, American</dc:subject>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh85025138</meta>
-		<dc:subject id="subject-4">History, Modern</dc:subject>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh85061236</meta>
-		<dc:subject id="subject-5">Hymns, English</dc:subject>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh85063617</meta>
-		<dc:subject id="subject-6">Narrative poetry, English</dc:subject>
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh85089853</meta>
-		<dc:subject id="subject-7">Nature in poetry</dc:subject>
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh85090286</meta>
-		<dc:subject id="subject-8">Songs, English</dc:subject>
 		<meta property="authority" refines="#subject-8">LCSH</meta>
 		<meta property="term" refines="#subject-8">sh85125063</meta>
-		<dc:subject id="subject-9">Patriotic poetry, American</dc:subject>
 		<meta property="authority" refines="#subject-9">LCSH</meta>
 		<meta property="term" refines="#subject-9">sh86003465</meta>
-		<dc:subject id="subject-10">Didactic poetry, American</dc:subject>
 		<meta property="authority" refines="#subject-10">LCSH</meta>
 		<meta property="term" refines="#subject-10">sh86005457</meta>
-		<dc:subject id="subject-11">World War, 1914-1918--Poetry</dc:subject>
 		<meta property="authority" refines="#subject-11">LCSH</meta>
 		<meta property="term" refines="#subject-11">sh2008113814</meta>
 		<meta property="se:subject">Poetry</meta>
