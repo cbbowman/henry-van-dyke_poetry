@@ -69,39 +69,173 @@
 			&lt;p&gt;Born in 1852 and gone by 1933, van Dyke cut a towering figure in American letters and public life: a bestselling novelist, a steadfast Presbyterian minister, a Princeton professor, and a diplomat who rubbed shoulders with kings and presidents. While readers still cherish his heartwarming Christmas tales, like &lt;em&gt;The Other Wise Man&lt;/em&gt;, it was his poetry that anchored his enduring mark on the world. This collection includes his crowning hymn, “Hymn of Joy” (better known by its first line “Joyful, Joyful We Adore Thee,”), as well as the poem “For Katrina’s Sun-Dial” (also known as “Time Is”), lines from which echoed through Westminster Abbey at the funeral of Diana, Princess of Wales.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
-		<!--Transcriptions of most of the works-->
+		<!-- TRANSCRIPTIONS -->
+		<!-- The Poems of Henry Van Dyke -->
+		<!-- Wings of a Dove; The Parting and the Coming Guest; When Tulips Bloom;
+		The After-Echo; Matins; The Fall of the Leaves; A Snow-Song;
+		If All the Skies; Roslin and Hawthornden; The Maryland Yellow-Throat;
+		The Whip-Poor-Will; The Veery; The Lily of Yorrow; Tennyson;
+		A Ballad of Claremont Hill; Four Things; Rendezvous; Transformation;
+		"Rappelle-Toi"; Two Songs Of Heine; "In Memoriam"; For Katrina's Window;
+		The Prison and the Angel; Santa Christina; Joy and Duty; Love and Light;
+		Peace; Song of a Pilgrim-Soul; To the Child Jesus; The Bargain; Bitter-Sweet;
+		The Way; The Great River; Mercy for Armenia; The Builders;
+		The Toiling of Felix; Vera; Another Chance; The Angler's Reveille;
+		"Little Boatie"; The Echo in the Heart; A November Daisy;
+		The River of Dreams; The Ruby-Crowned Kinglet; Music; Ode to Peace;
+		Victor Hugo; God of the Open Air; The Three Best Things;
+		The Child in the Garden; Love's Reason; Portrait and Reality;
+		The Wind of Sorrow; Patria; A Legend of Service; The Vain King;
+		A Mile with Me; Spring in the South; Love's Nearness; School;
+		A Mother's Birthday; Indian Summer; One World; Hide and Seek; Dulcis Memoria;
+		Autumn in the Garden; The Message; Light Between the Trees; Reliance;
+		For Katrina's Sun-Dial; To James Whitcomb Riley; To Mark Twain;
+		The Mocking-bird; The Empty Quatrain; For The Friends At Hurstmont;
+		The Statue of Sherman by St. Gaudens; The Sun-Dial at Wells College;
+		The White Bees; New Year's Eve; Sea-Gulls of Manhattan; Urbs Coronata;
+		America; Doors of Daring; A Home Song; A Noon Song; "America for Me";
+		The Ancestral Dwellings; The Monument Of Francis Makemie; National Monuments;
+		Mother Earth; Milton; Wordsworth; Keats; Shelley; Robert Browning;
+		Longfellow; Thomas Bailey Aldrich; Edmund Clarence Stedman;
+		Spring in the North; Nepenthe; Hesper; Arrival; Departure; The Black Birds;
+		Without Disguise; Gratitude; Master of Music; Stars and the Soul;
+		To Julia Marlowe; Pan Learns Music; "Undine"; Love in a Look; My April Lady;
+		A Lover's Envy; The Hermit Thrush; Fire-Fly City; The Gentle Traveller;
+		Sicily, December, 1908; The Window; Alpine Sonnets; Hudson's Last Voyage;
+		Hymn of Joy; The Sun-Dial at Morven; The Shepherd of Nymphs;
+		Echoes from the Greek Anthology; The Grand Canyon; Sierra Madre; Texas;
+		Turn o' the Tide; Rappel d'Amour; The First Bird o' Spring; "Gran' Boule";
+		Heroes of the "Titanic"; The Standard-Bearer; Peace Hymn of the Republic;
+		Christmas Tears; Dorothea, 1888-1912; Three Prayers for Sleep and Waking;
+		Inscription for a Tomb in England; Thorn and Rose; Stain not the Sky;
+		How Spring Comes to Shasta Jim; Angler's Fireside Song;
+		A Bunch of Trout-Flies; A Ballad of Santa Claus; The Little-Neck Clam;
+		Ars Agricolaris; The Red Flower; A Scrap Of Paper; Stand Fast; Lights Out;
+		Remarks About Kings; Might and Right; The Price of Peace; Storm-Music;
+		The Bells of Malines; The Name of France; "Come Back Again, Jeanne d'Arc";
+		Jeanne D'arc Returns; The Heavenly Hills of Holland; The Proud Lady;
+		Flood-Tide of Flowers; America's Prosperity; The Glory Of Ships;
+		Mare Liberum; "Liberty Enlightening the World"; The Oxford Thrushes;
+		Homeward Bound; The Peaceful Warrior; The Winds of War-News; Righteous Wrath;
+		Facta non Verba; From Glory unto Glory; "The Signs";
+		Britain, France, America; The Red Cross; Easter Road; America's Welcome Home;
+		The Surrender of the German Fleet; Golden Stars; The Song-Sparrow; Dulciora;
+		The Foolish Fir-Tree; "Rencontre"; Day and Night; An Hour;
+		Eight Echoes from the Poems of Auguste Angellier;
+		Spirit of the Everlasting Boy; Who Follow the Flag; In the Blue Heaven;
+		A Shrine in the Pantheon; Richard Watson Gilder; The Valley of Vain Verses;
+		The Pipes o' Pan; To a Young Girl Singing; The Old Flute; A Fairy Tale;
+		The Ballad of the Solemn Ass -->
 		<dc:source>https://www.gutenberg.org/ebooks/16229</dc:source>
-		<!--Transcriptions of "Chant of the Northmen at the Thunder-Oak"-->
+		<!-- The First Christmas Tree -->
+		<!-- Chant of the Northmen at the Thunder-Oak -->
 		<dc:source>https://www.gutenberg.org/ebooks/16134</dc:source>
-		<!--Transcriptions of "Chant of the Magi at the Fire-Altar"-->
+		<!-- The Story of the Other Wise Man -->
+		<!-- Chant of the Magi at the Fire-Altar -->
 		<dc:source>https://www.gutenberg.org/ebooks/10679</dc:source>
-		<!--Transcriptions of "A Rondeau of College Rhymes"-->
+		<!-- Music, and Other Poems -->
+		<!-- A Rondeau of College Rhymes -->
 		<dc:source>https://www.gutenberg.org/ebooks/3525</dc:source>
-		<!--Transcriptions of works found in "Songs out of Doors" (1922)-->
+		<!-- Songs out of Doors -->
+		<!-- The Distant Road; The Welcome Tent; The Great Cities;
+		The Friendly Trees; The Pathway of Rivers; The Glory of Ruins;
+		The Tribe of the Helpers; The Good Teacher; The Camp-Fires of My Friend;
+		Salute to the Trees -->
 		<dc:source>https://www.gutenberg.org/ebooks/9372</dc:source>
-		<!--Transcriptions of "The Broken Sword" and "The Unseen Altar"-->
+		<!-- Out-of-Doors in the Holy Land -->
+		<!-- The Broken Sword; The Unseen Altar -->
 		<dc:source>https://www.gutenberg.org/ebooks/29314</dc:source>
-		<!--Transcriptions of works found in "Thy Sea is Great, Our Boats are Small" (1922)-->
+		<!-- Thy Sea Is Great, Our Boats Are Small -->
+		<!-- Hymn of Labor; Voyagers; The Burning Bush; Children in the Market-Place;
+		Jesus Return; One in Christ; Foundations; Victoria -->
 		<dc:source>https://www.gutenberg.org/ebooks/43094</dc:source>
-		<!--Scans of most of the works-->
+		<!-- SCANS -->
+		<!-- The Poems of Henry Van Dyke -->
+		<!-- Wings of a Dove; The Parting and the Coming Guest; When Tulips Bloom;
+		The After-Echo; Matins; The Fall of the Leaves; A Snow-Song;
+		If All the Skies; Roslin and Hawthornden; The Maryland Yellow-Throat;
+		The Whip-Poor-Will; The Veery; The Lily of Yorrow; Tennyson;
+		A Ballad of Claremont Hill; Four Things; Rendezvous; Transformation;
+		"Rappelle-Toi"; Two Songs Of Heine; "In Memoriam"; For Katrina's Window;
+		The Prison and the Angel; Santa Christina; Joy and Duty; Love and Light;
+		Peace; Song of a Pilgrim-Soul; To the Child Jesus; The Bargain; Bitter-Sweet;
+		The Way; The Great River; Mercy for Armenia; The Builders;
+		The Toiling of Felix; Vera; Another Chance; The Angler's Reveille;
+		"Little Boatie"; The Echo in the Heart; A November Daisy;
+		The River of Dreams; The Ruby-Crowned Kinglet; Music; Ode to Peace;
+		Victor Hugo; God of the Open Air; The Three Best Things;
+		The Child in the Garden; Love's Reason; Portrait and Reality;
+		The Wind of Sorrow; Patria; A Legend of Service; The Vain King;
+		A Mile with Me; Spring in the South; Love's Nearness; School;
+		A Mother's Birthday; Indian Summer; One World; Hide and Seek; Dulcis Memoria;
+		Autumn in the Garden; The Message; Light Between the Trees; Reliance;
+		For Katrina's Sun-Dial; To James Whitcomb Riley; To Mark Twain;
+		The Mocking-bird; The Empty Quatrain; For The Friends At Hurstmont;
+		The Statue of Sherman by St. Gaudens; The Sun-Dial at Wells College;
+		The White Bees; New Year's Eve; Sea-Gulls of Manhattan; Urbs Coronata;
+		America; Doors of Daring; A Home Song; A Noon Song; "America for Me";
+		The Ancestral Dwellings; The Monument Of Francis Makemie; National Monuments;
+		Mother Earth; Milton; Wordsworth; Keats; Shelley; Robert Browning;
+		Longfellow; Thomas Bailey Aldrich; Edmund Clarence Stedman;
+		Spring in the North; Nepenthe; Hesper; Arrival; Departure; The Black Birds;
+		Without Disguise; Gratitude; Master of Music; Stars and the Soul;
+		To Julia Marlowe; Pan Learns Music; "Undine"; Love in a Look; My April Lady;
+		A Lover's Envy; The Hermit Thrush; Fire-Fly City; The Gentle Traveller;
+		Sicily, December, 1908; The Window; Alpine Sonnets; Hudson's Last Voyage;
+		Hymn of Joy; The Sun-Dial at Morven; The Shepherd of Nymphs;
+		Echoes from the Greek Anthology; The Grand Canyon; Sierra Madre; Texas;
+		Turn o' the Tide; Rappel d'Amour; The First Bird o' Spring; "Gran' Boule";
+		Heroes of the "Titanic"; The Standard-Bearer; Peace Hymn of the Republic;
+		Christmas Tears; Dorothea, 1888-1912; Three Prayers for Sleep and Waking;
+		Inscription for a Tomb in England; Thorn and Rose; Stain not the Sky;
+		How Spring Comes to Shasta Jim; Angler's Fireside Song;
+		A Bunch of Trout-Flies; A Ballad of Santa Claus; The Little-Neck Clam;
+		Ars Agricolaris; The Red Flower; A Scrap Of Paper; Stand Fast; Lights Out;
+		Remarks About Kings; Might and Right; The Price of Peace; Storm-Music;
+		The Bells of Malines; The Name of France; "Come Back Again, Jeanne d'Arc";
+		Jeanne D'arc Returns; The Heavenly Hills of Holland; The Proud Lady;
+		Flood-Tide of Flowers; America's Prosperity; The Glory Of Ships;
+		Mare Liberum; "Liberty Enlightening the World"; The Oxford Thrushes;
+		Homeward Bound; The Peaceful Warrior; The Winds of War-News; Righteous Wrath;
+		Facta non Verba; From Glory unto Glory; "The Signs";
+		Britain, France, America; The Red Cross; Easter Road; America's Welcome Home;
+		The Surrender of the German Fleet; Golden Stars; The Song-Sparrow; Dulciora;
+		The Foolish Fir-Tree; "Rencontre"; Day and Night; An Hour;
+		Eight Echoes from the Poems of Auguste Angellier;
+		Spirit of the Everlasting Boy; Who Follow the Flag; In the Blue Heaven;
+		A Shrine in the Pantheon; Richard Watson Gilder; The Valley of Vain Verses;
+		The Pipes o' Pan; To a Young Girl Singing; The Old Flute; A Fairy Tale;
+		The Ballad of the Solemn Ass -->
 		<dc:source>https://archive.org/details/poemsofhenryvand00vandrich</dc:source>
-		<!--Scans of works found in "The Builders, and other Poems" (1897)-->
+		<!-- The Builders, and Other Poems -->
+		<!-- To My Lady Graygown: with a Handful of Verses;
+		Chant of the Northmen at the Thunder-Oak;
+		Chant of the Magi at the Fire-Altar; A Babe Among the Stars;
+		The Master's Voice -->
 		<dc:source>https://archive.org/details/buildersotherpoe00vandrich</dc:source>
-		<!--Scans of "To Joseph Jefferson"-->
+		<!-- The Toiling of Felix, and Other Poems -->
+		<!-- "To Joseph Jefferson" -->
 		<dc:source>https://archive.org/details/toilingoffelixan00vandiala</dc:source>
-		<!--Scans of "A Rondeau of College Rhymes"-->
+		<!-- Music, and Other Poems -->
+		<!-- "A Rondeau of College Rhymes" -->
 		<dc:source>https://archive.org/details/musicotherpoems0000henr_c7v6</dc:source>
-		<!--Scans of works found in "Poems, now first collected and revised" (1911)-->
+		<!-- Poems, Now First Collected and Revised -->
+		<!-- The Distant Road; The Welcome Tent; The Great Cities;
+		The Friendly Trees; The Broken Sword; The Unseen Altar;
+		The Pathway of Rivers; The Glory of Ruins;
+		The Tribe of the Helpers; The Good Teacher; The Camp-Fires of My Friend -->
 		<dc:source>https://archive.org/details/poemsnowfirstcol00vanduoft</dc:source>
-		<!--Scans of "The Broken Sword" and "The Unseen Altar"-->
-		<dc:source>https://archive.org/details/outofdoorsinholy00vanduoft</dc:source>
-		<!--Scans of "Salute to the Trees"-->
+		<!-- Songs out of Doors -->
+		<!-- Salute to the Trees -->
 		<dc:source>https://archive.org/details/songsoutofdoors0000vand</dc:source>
-		<!--Scans of works found in "Thy Sea is Great, Our Boats are Small" (1922)-->
+		<!-- Thy Sea Is Great, Our Boats Are Small -->
+		<!-- Hymn of Labor; Voyagers; The Burning Bush; Children in the Market-Place;
+		Jesus Return; One in Christ; Foundations; Victoria  -->
 		<dc:source>https://archive.org/details/thyseaisgreatour00vandiala</dc:source>
-		<!--Scans of works found in "Chosen Poems" (1927)-->
+		<!-- Chosen Poems -->
+		<!-- Dear California; Ballad of Princeton Battle; Christ Our Comrade -->
 		<dc:source>https://archive.org/details/chosenpoems0000vand</dc:source>
-		<meta property="se:production-notes">The publishing order was maintained for this collection with the following exceptions: "Three Alpine Sonnets" is ordered according to the publication date of its third sonnet, "Twilight in the Alps," in 1909; its first and third sonnets were published in 1897. "Come Back Again, Jeanne d'Arc," while originally published in 1909, is placed directly before "Jeanne D'arc Returns" (1917), which "belongs with it" according to a footnote in the source text.</meta>
+		<meta property="se:production-notes">The publishing order was maintained for this collection with the following exceptions: "Three Alpine Sonnets" is ordered according to the publication date of its third sonnet, "Twilight in the Alps," in 1909; its first and second sonnets were published in 1897. "Come Back Again, Jeanne d'Arc," while originally published in 1909, is placed directly before "Jeanne D'arc Returns" (1917), which "belongs with it" according to a footnote in the source text.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/henry-van-dyke-jr_poetry</meta>
