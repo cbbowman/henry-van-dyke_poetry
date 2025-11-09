@@ -116,13 +116,19 @@ p span.i10{
 
 /* Epigraphs */
 [epub|type~="epigraph"]{
-	font-style: italic; /* ... */
+	font-style: italic;
+	hyphens: none;
+	-epub-hyphens: none;
 }
 
 [epub|type~="epigraph"] cite{
 	font-style: normal;
 	font-variant: small-caps;
 	margin-top: 1em;
+}
+
+[epub|type~="epigraph"] cite i{
+	font-style: italic;
 }
 
 header [epub|type~="epigraph"] cite{
