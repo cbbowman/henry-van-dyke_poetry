@@ -131,10 +131,6 @@ p span.i10{
 	font-style: italic;
 }
 
-header [epub|type~="epigraph"] cite{
-	font-variant: small-caps;
-}
-
 article > header [epub|type~="epigraph"]{
 	display: inline-block;
 	margin: auto;
