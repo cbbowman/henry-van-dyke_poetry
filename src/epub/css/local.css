@@ -2,8 +2,7 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 /* Poetry */
-article,
-section{
+article{
 	break-after: page;
 }
 
