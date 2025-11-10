@@ -171,7 +171,6 @@ footer{
 [epub|type~="z3998:poem"] footer p,
 [epub|type~="z3998:song"] footer p,
 [epub|type~="z3998:hymn"] footer p{
-	font-style: italic;
 	margin-right: 1em;
 	margin-top: 1em;
 	text-align: right;
