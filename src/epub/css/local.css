@@ -143,10 +143,7 @@ footer {
 }
 
 /* Italicized Text */
-p[xml|lang],
-header[xml|lang],
 blockquote[xml|lang],
-h2[xml|lang],
 q,
 #for-katrinas-window div span,
 #the-masters-voice p:nth-of-type(even),
