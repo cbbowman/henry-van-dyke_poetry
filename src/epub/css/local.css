@@ -98,28 +98,23 @@ p span.i10{
 }
 
 [epub|type~="z3998:poem"] div header,
-[epub|type~="z3998:song"] div header,
-[epub|type~="z3998:hymn"] div header{
+[epub|type~="z3998:song"] div header{
 	font-variant: small-caps;
 	margin-bottom: 1em;
 	text-align: center;
 }
 
 [epub|type~="z3998:poem"] div header p,
-[epub|type~="z3998:song"] div header p,
-[epub|type~="z3998:hymn"] div header p{
+[epub|type~="z3998:song"] div header p{
 	text-align: center;
 }
 
-[epub|type~="z3998:poem"] div header p + p,
-[epub|type~="z3998:song"] div header p + p,
-[epub|type~="z3998:hymn"] div header p + p{
+[epub|type~="z3998:poem"] div header p + p{
 	margin-top: 0;
 }
 
 [epub|type~="z3998:poem"] div,
-[epub|type~="z3998:song"] div,
-[epub|type~="z3998:hymn"] div{
+[epub|type~="z3998:song"] div{
 	margin-top: 1em;
 }
 
@@ -148,10 +143,6 @@ p span.i10{
 	font-style: normal;
 	font-variant: small-caps;
 	margin-top: 1em;
-}
-
-[epub|type~="epigraph"] cite i{
-	font-style: italic;
 }
 
 article > header [epub|type~="epigraph"]{
