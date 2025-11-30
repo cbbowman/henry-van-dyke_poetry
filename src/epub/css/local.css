@@ -128,7 +128,7 @@ p span.i10{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:poem"] [epub|type~="bridgehead"]{
+[epub|type~="z3998:poem"] [epub|type~="bridgehead"] p{
 	text-align: justify;
 }
 
